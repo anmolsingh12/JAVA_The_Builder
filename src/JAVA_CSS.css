@@ -1,0 +1,52 @@
+.root
+{
+    -fx-background-image: url("background.jpg");
+    /*-fx-base-: rgb(46, 195, 232);*/
+    -fx-background-repeat: repeat;
+    -fx-background-size: auto 100%;;
+    -fx-background-position: center;
+}
+
+#back
+{
+        -fx-background-size: 40px;
+        -fx-background-repeat: no-repeat;
+        -fx-background-position: center;
+}
+
+#build
+{
+        -fx-background-size: 40px;
+        -fx-background-repeat: no-repeat;
+        -fx-background-position: center;
+}
+
+Button
+{
+    -fx-font-size: 20pt;
+    -fx-font-weight: bold;
+    -fx-text-fill: #006464;
+    -fx-background-color: rgb(46, 195, 232); ;
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+    -fx-padding: 5;
+    -fx-font-family: "Arial Round MT Bold";
+    -fx-border-color: rgb(49, 89, 23);
+    -fx-border-radius: 5;
+    -fx-padding: 3 6 6 6;
+
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+
+#title {
+-fx-font-weight: Bold Italic;
+   -fx-font-size: 44pt;
+   -fx-font-family: "Exo 2";
+   -fx-text-fill: rgb(0,255,0);
+   -fx-border-color: rgb(0,200,0);
+   -fx-border-radius: 5;
+   -fx-padding: 3 6 6 6;
+}*/
